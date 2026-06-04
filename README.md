@@ -1,4 +1,4 @@
-# Quantum_Phase_Estimation_H2
+# Quantum_Phase_Estimation_for_the_H2_Molecule
 
 Authored a project utilizing the **QAT** Python library to implement a Quantum Phase Estimation algorithm for calculating the ground state energy of a dihydrogen molecule. This repository contains the code and simulation framework for constructing the molecular Hamiltonian and performing the estimation on a quantum simulator. Below is an overview of the included files and how to use the code.
 
